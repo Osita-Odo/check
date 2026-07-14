@@ -1,3 +1,18 @@
+project title
+
+objectives 
+
+
+Tools used
+
+
+Steps taken
+
+
+Conclussion/lessions learnt
+
+
+
 |Skill                                                                                                                        |Associated Project           |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 |Linux hardening: SSH configuration, password hashing, least-privilege access control                                         |[Linux-Lab](link)            |
